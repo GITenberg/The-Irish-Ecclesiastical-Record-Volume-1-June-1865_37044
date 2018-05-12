@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37044#The-Irish-Ecclesiastical-Record-Volume-1-June-1865
 gutenberg_bookshelf: The Irish Ecclesiastical Record
 gutenberg_issued: '2011-08-11'
 gutenberg_type: Text
